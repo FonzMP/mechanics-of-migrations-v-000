@@ -1,3 +1,3 @@
-class artists
+class Artist
 
 end
